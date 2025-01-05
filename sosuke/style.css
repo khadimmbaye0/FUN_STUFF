@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+}
+
+.image{
+    width: 800px;
+    height: 500px;
+    background-color: aqua;
+    margin: 5px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+
+h1, h2{
+    text-align: center;
+}
+
+
+footer p{
+    text-align: center;
+}
+
+.img1{
+    background-image: url('./img/1310203.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.img2{
+    background-image: url('./img/946404.png');
+    background-position: center;
+    background-size: cover;
+}
